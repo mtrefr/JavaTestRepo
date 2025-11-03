@@ -5,7 +5,7 @@ public class Main {
         final String NAME = "Miłosz";
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello World %s " , NAME);
+        System.out.printf("Hello World %s   " , NAME);
 
 
     }
